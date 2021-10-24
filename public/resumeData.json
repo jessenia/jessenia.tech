@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name": "Jessenia Kahn",
+    "occupation": "Systems Engineer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I'm a technologist with 10 years experience supporting innovative technology solutions for mission-driven companies. I have experience working in the areas of Application Development, Operations, Infrastructure, and Project Management as an individual contributor and technical lead. An avid team player with experience working in globally distributed remote teams, I finds great satisfaction in helping and learning from others. I am a continuous learner and problem solver.",
+    "contactmessage": "Have an inquiry or business opportunity? Get in touch and I'll get back to you as soon as I can!",
+    "email": "info@jessenia.tech",
+    "phone": "770-500-7371",
+    "address": {
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "website": "https://jessenia.tech",
+    "resumedownload": "https://drive.google.com/file/d/1tsslwQGvP19OPvEP4ZvGAOPD-TyCqUSJ/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Jessenia_InTech",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jessenia/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jessenia",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of the technologies I have the most experience and interest in",
+    "education": [
+      {
+        "school": "Kennesaw State University",
+        "degree": "Masters of Science in Computer Science",
+        "graduated": "December 2012",
+        "description": "Key areas of study included application development, cloud computing, operating sysytems, business intelligence, and networking"
+      },
+      {
+        "school": "University of Georgia",
+        "degree": "Bachelor of Business Administration in Management Information Systems and Certificate in Music Business",
+        "graduated": "August 2008",
+        "description": "Key areas of study project management, business analysis, application development, database administration/development, and management information systems"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mailchimp",
+        "title": "Senior Systems Engineer",
+        "years": "September 2020 - Present",
+        "description": "Individual contributor part of a team that owns the core infrastructure - load balancers, application servers, batch servers, and Kubernetes in on-premise and cloud"
+      },
+      {
+        "company": "Verizon Wireless",
+        "title": "Senior Systems Engineer",
+        "years": "February 2012 - Oct 2020",
+        "description": "Tech lead for application security, AWS migration, and tech modernization"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Frontend Development (ReactJS, Angular, HTML, CSS)",
+        "description": "Build complete professional web sites using MEAN or MERN stacks",
+        "level": "50%"
+      },
+      {
+        "name": "Backend Development (Java, Shell Scripting, Python)",
+        "description": "Build out the backend components to your website or API using Java or Python",
+        "level": "80%"
+      },
+      {
+        "name": "Databases (Oracle, PL/SQL, mySQL, Postgres)",
+        "description": "Development and Administration using RDBMS or NoSQL databases",
+        "level": "80%"
+      },
+      {
+        "name": "DevOps (Jenkins, Git, Ansible, Puppet, Terraform)",
+        "description": "Create and maintain continuous integration strategies using GitHub, Jenkins, Puppet, Terraform or Ansible.",
+        "level": "80%"
+      },
+      {
+        "name": "Cloud (AWS)",
+        "description": "Build out secure, automated, and performant Infrastructure in Amazon Web Services",
+        "level": "70%"
+      },
+      {
+        "name": "Observability and Monitoring (Grafana, Splunk, Zabbbix, Elastic Search stack, Prometheus)",
+        "description": "Set up exporters on your client servers to capture metrics, capture logs, set up metrics dashboards, pagers with Elastic Search stack, Kibana, Grafana, Zabbix, Prometheus, and more",
+        "level": "70%"
+      },
+      {
+        "name": "Project Management (JIRA, Confluence, Powerpoint, Presentation)",
+        "description": "Work cross functionally",
+        "level": "70%"
+      },
+      {
+        "name": "Technical Documentation (Confluence, TechSpecs, Diagraming)",
+        "description": "Write up documents in Confluence, diagrams using Graffle",
+        "level": "100%"
+      },
+      {
+        "name": "Wordpress",
+        "description": "Build eCommerce stores using Wordpress + WooCommerce + SEO and other integrations",
+        "level": "100%"
+      },
+      {
+        "name": "eCommerce",
+        "description": "Set up and manage online stores in Amazon Seller Central, Wordpress, Shopify, eBay, Mercari, Poshmark, and more",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Kahns Tuning",
+        "category": "Automotive Performance Tuning and Machine Rental business built with Wordpress aned hosted by HostGator",
+        "image": "kahnstuning.png",
+        "url": "https://kahnstuning.com"
+      },
+      {
+        "title": "Hola Mami Hair",
+        "category": "Hair and Beauty eCommerce site built with Wordpress and hosted in AWS",
+        "image": "holamamihair.png",
+        "url": "https://holamamihair.com"
+      },
+      {
+        "title": "My Professional Site",
+        "category": "My professional website built with ReactJS and hosted on AWS",
+        "image": "professional-website.jpg",
+        "url": "https://jessenia.tech"
+      },
+      {
+        "title": "Kahn Real Estate Group",
+        "category": "My real estate business website. I'm a licensed Realtor and Appraiser in the State of Georgia.",
+        "image": "kreg.jpg",
+        "url": "https://kahnrealestategroup.com"
+      }
+    ],
+    "nfts": [
+      {
+        "title": "Kahns Tuning",
+        "category": "Automotive Performance Tuning and Machine Rental business built with Wordpress aned hosted by HostGator",
+        "image": "kahnstuning.png",
+        "url": "https://kahnstuning.com"
+      },
+      {
+        "title": "Hola Mami Hair",
+        "category": "Hair and Beauty supply eCommerce site built with Wordpress and hosted in AWS",
+        "image": "holamamihair.png",
+        "url": "https://holamamihair.com"
+      },
+      {
+        "title": "My Professional Site",
+        "category": "My professional website built with ReactJS and hosted on AWS",
+        "image": "professional-website.jpg",
+        "url": "https://jesseniakahn.com"
+      },
+      {
+        "title": "Kahn Real Estate Group",
+        "category": "My real estate business website. I'm a licensed Realtor and Appraiser in the State of Georgia.",
+        "image": "kreg.jpg",
+        "url": "https://kahnrealestategroup.com"
+      }
+    ]
+  },
+  "quotes": {
+    "quotes": [
+      {
+        "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+        "user": "Viktor E. Frankl, Man's Search for Meaning"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
