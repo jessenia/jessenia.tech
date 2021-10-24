@@ -75,12 +75,14 @@ To get a local copy up and running follow the steps below.
 
 ### Prerequisites
 * Install Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-* Install npm `brew install node`
+* Install Docker `brew install docker`
 
 ### Installation
 1. Clone the repo `git clone https://github.com/jessenia/jessenia.tech.git`
 2. Change directory to the project home `cd jessenia.tech`
-3. Run the application `npm start`
+3. Build the docker image  `docker build -t jessenia.tech .`
+4. Start the docker container `docker run --rm -it -p 8080:80 jessenia.tech`
+5. Navigate to http://localhost:8080, and you should now see the app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,8 +95,7 @@ To get a local copy up and running follow the steps below.
 - [x] Upload images for header, projects, and profile pic
 - [x] Create Readme
 - [x] Acquire domain name jessenia.tech 
-- [] Containerize the app via Docker
-- [] Add the app to K8s
+- [x] Containerize the app via Docker
 - [] Build CI/CD pipeline
 - [] Build out the infrastructure on AWS using IaC 
 - [] Fix Contact Me form submission
