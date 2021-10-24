@@ -4,6 +4,8 @@ WORKDIR /jessenia.tech
 
 COPY . .
 
+RUN npm install
+
 FROM nginx:alpine
 
 WORKDIR /usr/share/nginx/html
