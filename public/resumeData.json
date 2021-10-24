@@ -89,7 +89,7 @@
         "level": "70%"
       },
       {
-        "name": "Observability and Monitoring (Grafana, Splunk, Zabbbix, Elastic Search stack, Prometheus)",
+        "name": "Observability and Monitoring (Grafana, Splunk, Zabbbix, Prometheus)",
         "description": "Set up exporters on your client servers to capture metrics, capture logs, set up metrics dashboards, pagers with Elastic Search stack, Kibana, Grafana, Zabbix, Prometheus, and more",
         "level": "70%"
       },
@@ -99,7 +99,7 @@
         "level": "70%"
       },
       {
-        "name": "Technical Documentation (Confluence, TechSpecs, Diagraming)",
+        "name": "Technical Documentation (Confluence and Diagraming)",
         "description": "Write up documents in Confluence, diagrams using various visual tools",
         "level": "100%"
       },
@@ -141,7 +141,7 @@
         "image": "kreg.jpg",
         "url": "https://kahnrealestategroup.com"
       }
-    ],
+    ]
   },
   "quotes": {
     "quotes": [
