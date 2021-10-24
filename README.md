@@ -93,6 +93,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] MIT license
 - [x] Upload images for header, projects, and profile pic
 - [x] Create Readme
+- [x] Acquire domain name jessenia.tech 
 - [] Containerize the app via Docker
 - [] Add the app to K8s
 - [] Build CI/CD pipeline
