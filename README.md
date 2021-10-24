@@ -64,9 +64,6 @@ This is my ReactJS based personal resume website. The website is designed to be 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org)
 
@@ -82,13 +79,9 @@ To get a local copy up and running follow these simple example steps.
 * npm `brew install node`
 
 ### Installation
-
 1. Clone the repo `git clone https://github.com/jessenia/jessenia.tech.git`
-
 2. Change directory to the project home `cd jessenia.tech`
-
 3. Run the application `npm start`
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
