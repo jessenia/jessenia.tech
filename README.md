@@ -72,18 +72,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
-
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 * Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-* npm
-  <a href="https://nodejs.org/en/download/">HERE</a> or using Brew you can install it via the terminal `brew install node`
+* npm `brew install node`
 
 ### Installation
 
@@ -99,8 +95,10 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
+- [x] Create the core website components
 - [x] Fill resume metadata
-- [x] Upload images
+- [x] MIT license
+- [x] Upload images for header, projects, and profile pic
 - [x] Create Readme
 - [] Fix Contact Me form submission
 - [] Integrate Twitter feed
@@ -133,15 +131,12 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -151,8 +146,6 @@ Jessenia Kahn - [@Jessenia_InTech](https://twitter.com/Jessenia_InTech) - info@j
 Project Link: [https://github.com/jessenia/jessenia.tech](https://github.com/jessenia/jessenia.tech)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -176,4 +169,4 @@ Project Link: [https://github.com/jessenia/jessenia.tech](https://github.com/jes
 [license-url]: https://github.com/jessenia/jessenia.tech/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jessenia
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /resume-screenshot.png
