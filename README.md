@@ -71,12 +71,11 @@ This is my ReactJS based personal resume website. The website is designed to be 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow the steps below.
 
 ### Prerequisites
-* Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-* npm `brew install node`
+* Install Homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+* Install npm `brew install node`
 
 ### Installation
 1. Clone the repo `git clone https://github.com/jessenia/jessenia.tech.git`
