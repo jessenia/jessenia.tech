@@ -110,7 +110,7 @@ To get a local copy up and running follow these simple example steps.
     - [] Spanish
     - [] Portuguese
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jessenia/jessenia.tech/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
