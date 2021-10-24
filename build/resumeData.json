@@ -89,29 +89,29 @@
         "level": "70%"
       },
       {
-        "name": "Observability and Monitoring (Grafana, Splunk, Zabbbix, Prometheus)",
+        "name": "Observability and Monitoring (Grafana, Splunk, Zabbbix, Elastic Search stack, Prometheus)",
         "description": "Set up exporters on your client servers to capture metrics, capture logs, set up metrics dashboards, pagers with Elastic Search stack, Kibana, Grafana, Zabbix, Prometheus, and more",
         "level": "70%"
       },
       {
-        "name": "Project Management (JIRA, Confluence, Powerpoint)",
-        "description": "Work cross functionally with team to lead technical projects",
+        "name": "Project Management (JIRA, Confluence, Powerpoint, Presentation)",
+        "description": "Work cross functionally",
         "level": "70%"
       },
       {
-        "name": "Security",
-        "description": "Improve your applications security posture including implementing code and binaries scanning in your CI/CD, WAF, and other strategies to protect against OWASP top 10",
-        "level": "80%"
+        "name": "Technical Documentation (Confluence, TechSpecs, Diagraming)",
+        "description": "Write up documents in Confluence, diagrams using various visual tools",
+        "level": "100%"
       },
       {
         "name": "Wordpress",
         "description": "Build eCommerce stores using Wordpress + WooCommerce + SEO and other integrations",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "eCommerce",
         "description": "Set up and manage online stores in Amazon Seller Central, Wordpress, Shopify, eBay, Mercari, Poshmark, and more",
-        "level": "80%"
+        "level": "100%"
       }
     ]
   },
