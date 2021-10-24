@@ -93,6 +93,10 @@ To get a local copy up and running follow these simple example steps.
 - [x] MIT license
 - [x] Upload images for header, projects, and profile pic
 - [x] Create Readme
+- [] Containerize the app via Docker
+- [] Add the app to K8s
+- [] Build CI/CD pipeline
+- [] Build out the infrastructure on AWS using IaC 
 - [] Fix Contact Me form submission
 - [] Integrate Twitter feed
 - [] Add NFT gallery display
