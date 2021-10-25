@@ -100,8 +100,9 @@ To get a local copy up and running follow the steps below.
 - [] Build out the infrastructure on AWS using IaC 
 - [] Fix Contact Me form submission
 - [] Integrate Twitter feed
+- [] Add a blog section
+- [] Add a book club/reading list section
 - [] Add NFT gallery display
-- [] Add a blog
 - [] Multi-language Support
     - [] Spanish
     - [] Portuguese
