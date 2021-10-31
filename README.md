@@ -24,6 +24,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<br />
+[![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.tech.svg)](https://wakatime.com/badge/github/jessenia/jessenia.tech)
+
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
