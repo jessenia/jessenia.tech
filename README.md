@@ -23,7 +23,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.tech.svg)](https://wakatime.com/badge/github/jessenia/jessenia.tech)
 
 <br />
 [![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.tech.svg)](https://wakatime.com/badge/github/jessenia/jessenia.tech)
