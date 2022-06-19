@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Jessenia Kahn",
-    "occupation": "Systems Engineer specializing in DevSecOps and Blockchain Development",
+    "occupation": "Systems Engineer focused on DevSecOps, Infrastructure, and Site Reliability",
     "description": "",
     "image": "profilepic.jpg",
     "bio": "I'm a technologist with 10 years experience supporting innovative technology solutions for mission-driven companies. I have experience working in the areas of Application Development, Operations, Infrastructure, and Project Management as an individual contributor and technical lead. Some time ago I really fell in love working on developing secure applications with Operation excellency in mind. It's no surprise that I eventually landed somewhere in the intersection of these disciplines. I'm an avid team player with experience working in globally distributed remote teams, I find great satisfaction in helping and learning from others and facilitating cross team communications. I am a continuous learner and problem solver.",
@@ -37,9 +37,9 @@
     "education": [
       {
         "school": "Kennesaw State University",
-        "degree": "Masters of Science in Computer Science",
+        "degree": "Masters of Science in Applied Computer Science",
         "graduated": "December 2012",
-        "description": "Key areas of study included application development, cloud computing, operating sysytems, business intelligence, and networking"
+        "description": "Key areas of study included application development, databases,  cloud computing, operating sysytems, business intelligence, and networking"
       },
       {
         "school": "University of Georgia",
@@ -50,9 +50,15 @@
     ],
     "work": [
       {
+        "company": "Coinbase",
+        "title": "Site Reliability Engineer",
+        "years": "January 2022 - June 2022",
+        "description": "Individual contributor part of the Crypto reliability team owning Coinbase's 130+ assets focused on node operations, scaling, tuning, and troublesooting the infrastructure and systems in which they run on"
+      },      
+      {
         "company": "Mailchimp",
         "title": "Senior Systems Engineer",
-        "years": "September 2020 - Present",
+        "years": "September 2020 - January 2022",
         "description": "Individual contributor part of a team that owns the core infrastructure working on load balancers, application servers, batch servers, and Kubernetes in on-premise and cloud"
       },
       {
@@ -69,8 +75,8 @@
         "level": "50%"
       },
       {
-        "name": "Backend Development (Java, Shell Scripting, Python)",
-        "description": "Build out the backend components to your website or API using Java or Python",
+        "name": "Backend Development (Bash, Java, Golang, and Python)",
+        "description": "Build out the backend components and tooling",
         "level": "80%"
       },
       {
@@ -79,23 +85,23 @@
         "level": "80%"
       },
       {
-        "name": "DevOps (Jenkins, Git, Ansible, Puppet, Terraform)",
-        "description": "Create and maintain continuous integration strategies using GitHub and Jenkins. Build out infrastructure using IaC tools such as Puppet, Terraform or Ansible.",
+        "name": "DevOps (Jenkins, GoCD, BuildKite, Git, Ansible, Puppet, Terraform)",
+        "description": "Create and maintain continuous integration strategies using GitHub and Jenkins. Build out infrastructure using IaC and provisioning tools such as Puppet, Terraform or Ansible.",
         "level": "80%"
       },
       {
-        "name": "Cloud (AWS)",
-        "description": "Build out secure, automated, and performant Infrastructure in Amazon Web Services",
+        "name": "Cloud (AWS and GCP)",
+        "description": "Build out secure, automated, and performant Infrastructure in AWS or GCP",
         "level": "70%"
       },
       {
-        "name": "Observability and Monitoring (Grafana, Splunk, Zabbbix, Prometheus)",
-        "description": "Set up exporters on your client servers to capture metrics, capture logs, set up metrics dashboards, pagers with Elastic Search stack, Kibana, Grafana, Zabbix, Prometheus, and more",
+        "name": "Observability and Monitoring (Datadog, Grafana, Splunk, Zabbbix, Prometheus)",
+        "description": "Set up exporters on your client servers to capture metrics, logs, set up metrics dashboards, SLO, SLAs, and monitors using observability tools. Set up observability as code",
         "level": "70%"
       },
       {
         "name": "Project Management (JIRA, Confluence, Powerpoint)",
-        "description": "Work cross functionally with team to lead technical projects",
+        "description": "Work cross functionally with team to lead technical projects using Agile or Scrum",
         "level": "70%"
       },
       {
@@ -106,12 +112,12 @@
       {
         "name": "Wordpress",
         "description": "Build eCommerce stores using Wordpress + WooCommerce + SEO and other integrations",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "eCommerce",
         "description": "Set up and manage online stores in Amazon Seller Central, Wordpress, Shopify, eBay, Mercari, Poshmark, and more",
-        "level": "80%"
+        "level": "100%"
       }
     ]
   },
@@ -119,7 +125,7 @@
     "projects": [
       {
         "title": "Kahns Tuning",
-        "category": "Automotive Performance Tuning and Machine Rental business built with Wordpress aned hosted by HostGator",
+        "category": "Automotive Performance Tuning and Machine Rental business built with Wordpress and hosted by HostGator",
         "image": "kahnstuning.png",
         "url": "https://kahnstuning.com"
       },
@@ -137,7 +143,7 @@
       },
       {
         "title": "Kahn Real Estate Group",
-        "category": "My real estate business website. I'm a licensed Realtor and Appraiser in the State of Georgia.",
+        "category": "My real estate business website. I'm a licensed Realtor and Appraiser in the State of Georgia. I did not build this site from scratch, but customized it to satisfy my requirements.",
         "image": "kreg.jpg",
         "url": "https://kahnrealestategroup.com"
       }
