@@ -99,7 +99,7 @@ To get a local copy up and running follow the steps below.
 - [x] Acquire domain name jessenia.tech 
 - [x] Containerize the app via Docker
 - [] Build CI/CD pipeline
-- [] Build out the infrastructure on AWS using IaC 
+- [] Build out the infrastructure on GCP using IaC 
 - [] Fix Contact Me form submission
 - [] Integrate Twitter feed
 - [] Add a blog section
@@ -118,9 +118,7 @@ See the [open issues](https://github.com/jessenia/jessenia.tech/issues) for a fu
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+I'm the sole contributer of this project. However, if you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
